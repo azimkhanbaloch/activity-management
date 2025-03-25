@@ -25,7 +25,6 @@ This project is a **# 🏆  System System** built using Laravel that tracks user
 - Composer
 - MySQL or any supported database
 - Laravel 10 or higher
-- Node.js & npm (optional for frontend assets)
 
 ---
 
